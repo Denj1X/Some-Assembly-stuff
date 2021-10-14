@@ -1,2 +1,2 @@
 # Labor-ASC
-Getting use with Assembly
+Getting used with Assembly
