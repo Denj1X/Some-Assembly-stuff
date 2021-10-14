@@ -1,2 +1,2 @@
 # Labor-ASC
-Probleme si altele in cadrul ASC
+Getting use with Assembly
